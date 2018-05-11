@@ -51,5 +51,33 @@ Once the server is running, you should be able to access the app at [http://loca
 
 #### Application Screenshots
 
+###### Landing page
+
+<img width="1440" alt="screen shot 2018-05-11 at 12 37 22 am" src="https://user-images.githubusercontent.com/32351699/39912678-5fd56996-54b4-11e8-82f8-729c6830738c.png">
+
+###### Search results page
+
+<img width="1440" alt="screen shot 2018-05-11 at 12 38 17 am" src="https://user-images.githubusercontent.com/32351699/39912733-85028b54-54b4-11e8-8588-3fbeb7329889.png">
+
+###### Virtual Reality page
+
+<img width="1440" alt="screen shot 2018-05-11 at 12 41 17 am" src="https://user-images.githubusercontent.com/32351699/39912760-9c793e22-54b4-11e8-8873-96c4ed2e8178.png">
+
+###### Virtual Reality Home - My VRs
+
+<img width="1440" alt="screen shot 2018-05-11 at 12 41 45 am" src="https://user-images.githubusercontent.com/32351699/39912807-c3c5d36e-54b4-11e8-8bb4-a66f22f25f5e.png">
+
+###### Virtual Reality Home - Upload VR
+
+<img width="1440" alt="screen shot 2018-05-11 at 12 41 54 am" src="https://user-images.githubusercontent.com/32351699/39912840-dc11c608-54b4-11e8-8774-a8e35f0fa727.png">
+
+###### Virtual Reality Home - Create VR
+
+<img width="1440" alt="screen shot 2018-05-11 at 12 42 09 am" src="https://user-images.githubusercontent.com/32351699/39912869-ed20406e-54b4-11e8-8af8-c8e1cae024f3.png">
+
+###### Virtual Reality Home - Comment & Like
+
+<img width="1440" alt="screen shot 2018-05-11 at 12 42 51 am" src="https://user-images.githubusercontent.com/32351699/39912912-019119d8-54b5-11e8-9a98-84867aeccd0a.png">
+
 
 
